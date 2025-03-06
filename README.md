@@ -29,12 +29,12 @@
 
   1. The two tests could have been run on different machines.
   2. More applications could have been running in the background during the second test.
-  3. The first run could have pulled from the cache of a previous run while the second run could not.
+  3. The computer may be overheating (for external reasons such as dust build-up) during the second run, resulting in the computer slowing down to produce less heat to avoid damage.
   
 Add your answers to this markdown file.
 
 ### Sources:
 
-I used the examples we covered in class on Thursday 2/20.
+I used the examples we covered in class on Thursday 2/20. I used this site to look into overheating: https://computronixusa.com/what-causes-a-computer-to-run-slow/ 
 
 “I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.” - Natalie Sleight
