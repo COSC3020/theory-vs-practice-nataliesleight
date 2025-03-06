@@ -29,7 +29,7 @@
 
   1. The two tests could have been run on different machines.
   2. More applications could have been running in the background during the second test.
-  3. The device could be at low battery, causing the cpu to give less memory for the program to work with.
+  3. The first run could have pulled from the cache of a previous run while the second run could not.
   
 Add your answers to this markdown file.
 
