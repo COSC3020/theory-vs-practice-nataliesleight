@@ -10,6 +10,8 @@
   3. Because asymptotic analysis analyzes the asymptotes (hence the name), "smaller" input sizes may be more greatly affected by the parts of an equation 
      that become obsolete as the input approaches infinity.
 
+     - For example: If the runtime equation is $T(n) = n^2 + 1000n$, the $n^2$ term won't start being larger than $100n$ until $n>1000$.
+
 - Suppose finding a particular element in a binary search tree with 1,000
   elements takes 5 seconds. Given what you know about the asymptotic complexity
   of search in a binary search tree, how long would you guess finding the same
